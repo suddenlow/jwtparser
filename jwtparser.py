@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# by stays0l1d
 
 import sys
 import re
